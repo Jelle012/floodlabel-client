@@ -1010,8 +1010,8 @@ class Result extends React.Component<Props, State> {
                       label. Klik verder om uw label aan te passen naar uw
                       woning en om te kijken wat u zelf kunt doen voor uw
                       veiligheid tegen water. Let op: dit label is een indicatieve
-					  inschatting van uw risico op basis van openbaar beschikbare 
-					  data. U kunt geen rechten aan dit label ontlenen.
+                      inschatting van uw risico op basis van openbaar beschikbare 
+                      data. U kunt geen rechten aan dit label ontlenen.
                     </p>
                   </div>
                 </div>
